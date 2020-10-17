@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Teleporter
+  - WizardFood
+  - Key
+  - Treasure
+  - Chain
+  - Wizard
+  - BreadImage
+  - KeyImage
+  - Rune
+  - Cat
+  - MilkBowl
+  - Potion
+  - Wardrobe
+  - Wand
+  - Robe
+  - Cauldron
+  - redPotion
+  - bluePotion
+  - greenPotion
+  - Chalk
+  - NoBread
+  - CabinetDoor
+  - Num1
+  - Num2
+  - Num3
+  - Num4
+  - Num5
+  - Num6
+  - Num7
+  - Num8
+  - Num9
+  - Num0
+  - Scroll
+  - Teleportation
+  - DecoyCell
+  - Mushroom
+  - fakeRune
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
